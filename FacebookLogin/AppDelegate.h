@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+// http://developers.facebook.com/docs/reference/iossdk/authentication/
+// http://developers.facebook.com/docs/sdk-reference/iossdk/3.0/
+// https://developers.facebook.com/docs/reference/api/
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 @property (strong, nonatomic) UIWindow *window;
 
